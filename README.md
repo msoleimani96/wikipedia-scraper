@@ -1,1 +1,1 @@
-# wikipedia-scraper
+# Wikipedia Scraper (Python/Scrapy)
