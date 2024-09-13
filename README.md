@@ -12,7 +12,8 @@ Scrape random wikipedia articles and export data in CSV.
 ```
    pip install -r requirements.txt
 ```
-4. Start scraping.
+4. Start scraping.  
+   Note: Make sure you are in wikipedia directory that scrapy.cfg file located, then run the commands below.
 ```
    scrapy crawl wikipedia
 ```
